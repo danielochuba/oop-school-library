@@ -1,4 +1,4 @@
-# Add Enumerable
+# OOP school library
 <br>
 <div align='center'>
 	<h1>OOP school library</h1>
