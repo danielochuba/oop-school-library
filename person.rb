@@ -3,7 +3,6 @@ require_relative 'nameable'
 require_relative 'decorator'
 require_relative 'trim'
 
-
 class Person < Nameable
   attr_reader :id
   attr_accessor :name, :age
