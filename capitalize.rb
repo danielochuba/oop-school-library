@@ -1,9 +1,8 @@
 require_relative 'decorator'
 
 class CapitalizeDecorator < BaseDecorator
-  def initialize(person)
-    super
-    @nameable = person
+  def initialize(nameable)
+    super(nameable)
   end
 
   def correct_name
