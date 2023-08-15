@@ -12,6 +12,7 @@ class Person < Nameable
     @id = Random.rand(1..100)
     @name = name
     @age = age
+    @parent_permission = parent_permission
   end
 
   def can_use_services?
