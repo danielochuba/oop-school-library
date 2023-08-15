@@ -38,6 +38,7 @@
 ### Key Features <a name="key-features"></a>
 
 - Classes: Person, Student and Teacher Classes and their methods
+- Decorate: Uses the Decorator design pattern to correct the names of people.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
