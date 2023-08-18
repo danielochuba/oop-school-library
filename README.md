@@ -10,7 +10,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
@@ -40,13 +39,6 @@
 - Classes: Person, Student and Teacher Classes and their methods
 - Decorate: Uses the Decorator design pattern to correct the names of people.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 You can check the Live Demo here<a name="live-demo"></a>
-
-The live demo will be availabe soon
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
