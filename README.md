@@ -56,10 +56,6 @@
 - Step 4: If you want to watch the html file open it with your favorite web browser(This project MUST be opened from VS Code for full functionality).
 - Step 5: If you want to edit this project open it with your favorite text editor.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 💻 Getting Started <a name="getting-started"></a>
-
 To get a local copy up and running cloning this repo `https://github.com/danielochuba/oop-school-library.git`.
 
 ### Prerequisites
@@ -102,6 +98,8 @@ To run the project:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Future features <a name="future-features"></a>
+- Add  Interactive UI
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
