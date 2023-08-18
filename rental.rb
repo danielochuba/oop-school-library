@@ -15,7 +15,6 @@ class Rental
     person.rentals << self
   end
 
-
   def book=(book)
     @book = Book
     book.rentals.push(self) unless book.rentals.include?(self)
