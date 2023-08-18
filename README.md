@@ -10,7 +10,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
@@ -42,13 +41,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 You can check the Live Demo here<a name="live-demo"></a>
-
-The live demo will be availabe soon
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -63,10 +55,6 @@ The live demo will be availabe soon
   the repository.
 - Step 4: If you want to watch the html file open it with your favorite web browser(This project MUST be opened from VS Code for full functionality).
 - Step 5: If you want to edit this project open it with your favorite text editor.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running cloning this repo `https://github.com/danielochuba/oop-school-library.git`.
 
@@ -110,6 +98,8 @@ To run the project:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Future features <a name="future-features"></a>
+- Add  Interactive UI
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
